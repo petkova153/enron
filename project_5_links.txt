@@ -1,0 +1,18 @@
+1. http://www.investopedia.com/updates/enron-scandal-summary/#ixzz4M3BnGYwZ
+2. http://www.journalofaccountancy.com/issues/2002/apr/theriseandfallofenron.html
+3. https://discussions.udacity.com/t/features-in-the-enron-dataset/188945/5
+4. http://stackoverflow.com/questions/8023306/get-key-by-value-in-dictionary
+5. http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.transpose.html
+6. http://www.bloomberg.com/news/articles/2002-03-03/the-danger-of-deferred-compensation https://books.google.lt/books?id=yhSA2u91BFgC&pg=PA610&lpg=PA610&dq=restricted+stock+deferred+enron&source=bl&ots=Nb08uMf0vm&sig=OXZPsqrYA0ccumN2zHAZ48mwk3s&hl=en&sa=X&redir_esc=y#v=onepage
+7. http://www.lawyershop.com/practice-areas/criminal-law/white-collar-crimes/securities-fraud/lawsuits/enron
+8. https://github.com/DariaAlekseeva/Enron_Dataset/blob/master/Enron%20POI%20Detector%20Project%20Assignment.ipynb
+9. https://github.com/austinjalexander/udacity_intro_ml_project/blob/master/poi_id.py
+10. https://discussions.udacity.com/t/how-do-i-know-which-features-are-selected-by-selectkbest/34450
+11. https://github.com/pcasaretto/machinelearning-finalproject/blob/master/poi_id.py
+12. http://stats.stackexchange.com/questions/23391/how-does-a-support-vector-machine-svm-work
+13. http://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues
+14. #https://discussions.udacity.com/t/what-is-pipeline/185160/8
+15. https://discussions.udacity.com/t/final-project-order-of-pipeline-operation-with-minmaxscaler-and-svc/164802
+16. https://discussions.udacity.com/t/final-project-requirement-rubric-questions/185511/2
+17. http://stackoverflow.com/questions/32857029/python-scikit-learn-pca-explained-variance-ratio-cutoff
+18. https://discussions.udacity.com/t/gridsearchcv-and-testingtraining-data/36107/4
